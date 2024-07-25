@@ -30,6 +30,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashop181&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashop181&theme=radical)
 
-### Contribution Graph
-![Yashop181's GitHub Contribution Graph](https://ghchart.rshah.org/Yashop181)
 
